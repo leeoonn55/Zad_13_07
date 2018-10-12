@@ -1,0 +1,25 @@
+{
+  "name": "Zad_13_07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeoonn55/Zad_13_07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeoonn55/Zad_13_07/issues"
+  },
+  "homepage": "https://github.com/leeoonn55/Zad_13_07#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "stat-mode": "^0.2.2"
+  }
+}
